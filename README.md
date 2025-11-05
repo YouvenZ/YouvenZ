@@ -85,55 +85,6 @@ time_saved = 35  # hours per week for actual research! 🎯
 
 ---
 
-## 🛠️ My Technical Arsenal
-
-**AI & Deep Learning:**
-```
-PyTorch • TensorFlow • MLflow • OpenAI API
-Medical Imaging • Explainable AI (XAI) • Bayesian ML
-U-Net • VAE • Probabilistic Models
-```
-
-**Focus Areas:**
-- 🏥 Medical Image Analysis (Diabetic Retinopathy, OCT/OCTA)
-- 🤖 AI-Powered Research Automation
-- 📊 Multi-modal Imaging & Longitudinal Analysis
-- 🔬 Anomaly Detection with Explainable AI
-
----
-
-## 💼 Current Work
-
-**🏢 AI Research Engineer @ IMT Atlantique**  
-Developing explainable AI systems for anomaly detection in natural images
-
-**🎓 PhD Research (2021-2023) @ INSERM**  
-Built deep learning models for diabetic retinopathy diagnosis using ultrawide-field imaging and OCT angiography. Part of the ANR RHU EviRed project developing expert systems for ophthalmology.
-
-**🎥 Content Creator**  
-Helping 1000+ researchers work smarter through YouTube tutorials and Substack articles
-
----
-
-## 📚 Credentials
-
-<details>
-<summary><b>Click to expand</b></summary>
-
-- **PhD** - Deep Learning for Healthcare (Université de Bretagne Occidentale, 2021-2024)
-- **Master's** - Medical Signal & Image Processing (Université Paris-Est Créteil)
-- **Engineering Degree** - Healthcare IT (ESIPE Paris-Est Créteil)
-
-**Certifications:**
-- DeepLearning.AI TensorFlow Developer Specialization
-- Deep Learning Specialization  
-- AI for Medicine Specialization
-- Bayesian Statistics & Machine Learning
-
-</details>
-
----
-
 ## 🤝 Let's Work Together
 
 **I'm available for:**
@@ -142,7 +93,7 @@ Helping 1000+ researchers work smarter through YouTube tutorials and Substack ar
 - 💼 Research productivity consulting  
 - 🔬 Medical imaging AI projects
 
-**📧 Contact:** zeghlache.rachid@outlook.fr
+**📧 Contact:** youvenz.pro@gmail.com
 
 ---
 
